@@ -1,0 +1,1 @@
+[    "Ensure all code is committed, tested, and passes CI/CD checks",    "Update version number and documentation (e.g., README, release notes)",    "Resolve open issues and pull requests",    "Test the software in a staging environment",    "Tag the release and notify stakeholders"]
