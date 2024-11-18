@@ -28,5 +28,5 @@
             "Correct Pixel + Offline",
             "UTM parameters"
         ]
-    },
+    }
 ]
