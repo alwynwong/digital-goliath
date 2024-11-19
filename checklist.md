@@ -1,6 +1,6 @@
 [
     {
-        "title": "list 1",
+        "title": "Marketing Campaign",
         "items": [
             "Ad title",
             "Correct Page & IG",
@@ -15,18 +15,9 @@
         ]
     },
     {
-        "title": "duplicated list 1",
+        "title": "Todo list",
         "items": [
-            "Ad title",
-            "Correct Page & IG",
-            "Grammar, spacing, symbols",
-            "All Advantage features off",
-            "Thumbnail",
-            "Correct CTA",
-            "Destination URL",
-            "Display link",
-            "Correct Pixel + Offline",
-            "UTM parameters"
+            "Update checklist.md"            
         ]
     }
 ]
