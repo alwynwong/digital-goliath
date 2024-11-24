@@ -21,7 +21,7 @@
             "Final URL expansion",
             "Asset Creation",
             "Branded Traffic and Search Themes",
-            "Video parnter network"
+            "Video partner network"
         ]
     }
 ]
