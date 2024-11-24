@@ -15,9 +15,13 @@
         ]
     },
     {
-        "title": "Todo list",
+        "title": "PMAX BP checklist",
         "items": [
-            "Update checklist.md"            
+            "Location option"
+            "Final URL expansion"
+            "Asset Creation"
+            "Branded Traffic and Search Themes
+            "Video parnter network"
         ]
     }
 ]
