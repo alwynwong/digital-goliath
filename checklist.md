@@ -17,10 +17,10 @@
     {
         "title": "PMAX BP checklist",
         "items": [
-            "Location option"
-            "Final URL expansion"
-            "Asset Creation"
-            "Branded Traffic and Search Themes
+            "Location option",
+            "Final URL expansion",
+            "Asset Creation",
+            "Branded Traffic and Search Themes,
             "Video parnter network"
         ]
     }
