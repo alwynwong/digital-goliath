@@ -20,7 +20,7 @@
             "Location option",
             "Final URL expansion",
             "Asset Creation",
-            "Branded Traffic and Search Themes,
+            "Branded Traffic and Search Themes",
             "Video parnter network"
         ]
     }
