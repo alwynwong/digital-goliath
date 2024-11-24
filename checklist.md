@@ -23,5 +23,17 @@
             "Branded Traffic and Search Themes",
             "Video partner network"
         ]
+    },
+    {
+        "title": "Running a promo",
+        "items": [
+            "Dynamic Headlines - Google",
+            "Dynamic Body - Google",
+            "Promo Extensions - Google",
+            "Site Link Extensions - Google",
+            "GMC Promos - Google",
+            "Meta ads",
+            "Update calendar page"
+        ]
     }
 ]
