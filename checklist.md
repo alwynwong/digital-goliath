@@ -30,6 +30,7 @@
             "Dynamic Headlines - Google",
             "Dynamic Body - Google",
             "Promo Extensions - Google",
+            "Callout Extensions - Google",
             "Site Link Extensions - Google",
             "GMC Promos - Google",
             "Meta ads",
