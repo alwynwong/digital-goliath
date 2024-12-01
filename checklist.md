@@ -36,5 +36,20 @@
             "Meta ads",
             "Update calendar page"
         ]
+    },
+        {
+        "title": "Level 10 meeting",
+        "items": [
+            "Segue, check-ins wins",
+            "Host value segment",
+            "Company/member headlines",
+            "Clan lookout",
+            "Monthly scorecard",
+            "Weekly scorecard",
+            "Issues highlights",
+            "Rocks on/off track",
+            "Rcap to-do's",
+            "Closing remarks"
+        ]
     }
 ]
