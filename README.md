@@ -13,6 +13,7 @@ Modfy the following file:
 [
     {
         "title": "Marketing Campaign",
+        "category": "section 1",
         "items": [
             "Ad title",
             "Correct Page & IG",
@@ -28,6 +29,7 @@ Modfy the following file:
     },
     {
         "title": "Todo list",
+        "category": "section 2",
         "items": [
             "Update checklist.md"            
         ]
