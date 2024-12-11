@@ -53,3 +53,20 @@
         ]
     }
 ]
+    },
+        {
+        "title": "Meta Account Starting Checklist",
+        "items": [
+            "Create a Slack channel",
+            "Create a ClickUp folder",
+            "Connect the ClickUp-Slack integration",
+            "Gain access to the Meta Ad Account",
+            "Gain access to the Meta Pixel",
+            "Gain access to Google Analytics",
+            "Gain access to Google Tag Manager",
+            "Client has filled out the Meta Ad Campaign Planning and Targeting Questionnaire",
+            "Bookmark the necessary assets in Slack",
+            "Create a client-specific Dropbox folder and save all assets"
+        ]
+    }
+]
