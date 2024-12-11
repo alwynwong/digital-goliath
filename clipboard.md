@@ -6,5 +6,13 @@
     {
         "title": "Order Confirmation Follow-Up",
         "text": "You can track your order status here: [Insert Tracking Link]. If you have any questions or need assistance, feel free to reply to this email or contact us at [Insert Contact Information]."
+    },
+    {
+        "title": "Comprehensive Email Self-Review Guide",
+        "text": "Tone: Is it collaborative and polished? Does it avoid being overly directive?"
+        "text": "Structure: Are ideas prioritized logically? Is the email scannable?"
+        "text": "Clarity & Context: Are suggestions explained with enough context? Does the email align with the recipient’s perspective and role?"
+        "text": "Professionalism: Is the phrasing tactful and polished? Are there any grammar, formatting, or consistency issues?"
+        "text": "Completeness: Are all necessary details included to make the email actionable and aligned with the goals?"
     }
 ]
