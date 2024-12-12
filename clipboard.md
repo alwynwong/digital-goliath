@@ -10,12 +10,12 @@
 ]
         
         
-        "title": "1.Comprehensive Email Self-Review Guide",
+        "title": "1.TEST,
         "text": "Tone: Is it collaborative and polished? Does it avoid being overly directive?",
         "text": "Structure: Are ideas prioritized logically? Is the email scannable?"        
     },
     {
-        "title": "3. Comprehensive Email Self-Review Guide",
+        "title": "2.TEST",
         "text": "Clarity & Context: Are suggestions explained with enough context? Does the email align with the recipient’s perspective and role?"        
     },
     {
