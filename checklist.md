@@ -130,25 +130,5 @@
             "List some wins and misses to send to client (can also include start-stop-continues)",
             "After working on this for 30 days, do you have the capacity & experience required to handle the account going forward?"
         ]
-    },
-    {
-        "title": "TEST SPACING",
-        "items": [
-                  "Create a Slack channel",
-                  "Create a ClickUp folder",
-     "Connect the ClickUp-Slack integration",
-     "Gain access to the Meta Ad Account",
-     "Gain access to the Meta Pixel",
-     "Gain access to the Meta Catalogue",
-            "Gain access to the Meta Page / IG Account",
-            "Gain access to Google Analytics","
-     "Gain access to Google Tag Manager",
-     "Client has filled out the Meta Ad Campaign Planning and Targeting Questionnaire",
-     "Ensure the right tags are on the correct pages",
-            "Bookmark the necessary assets in Slack",
-     "Create a Client-specific Dropbox folder and save all the assets",
-            "Campaign launched and activated",
-            "Booked -3 Days meeting",
-            "Booked 14 Days meeting",
-            "Booked 30 Days meeting"
-        ]
+    }
+]
