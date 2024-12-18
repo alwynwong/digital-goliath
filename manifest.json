@@ -1,10 +1,14 @@
 [
     {
-        "name": "Orginal BAU List",
+        "name": "Digital Goliath BAU",
         "url": "checklist.md"
     },
     {
-        "name": "Other List",
+        "name": "Cooking with Digital Goliath",
         "url": "sample.json"
+    },
+    {
+        "name": "No Such File",
+        "url": "404.json"
     }
 ]

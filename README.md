@@ -36,3 +36,23 @@ Modfy the following file:
     }
 ]
 ```
+
+# Adding to the sidebar
+
+name: What gets displayed in the UI
+url: the check list file
+
+**Make sure the file exist**
+
+```
+[
+    {
+        "name": "Digital Goliath BAU",
+        "url": "checklist.md"
+    },
+    {
+        "name": "Cooking with Digital Goliath",
+        "url": "sample.json"
+    }
+]
+```
