@@ -1,59 +1,131 @@
 [
     {
-        "title": "META ad level",
-        "category": "META",
+        "title": "Spaghetti Bolognese",
+        "category": "Main Course",
         "items": [
-            "Ad title",
-            "Correct Page & IG",
-            "Grammar, spacing, symbols",
-            "All Advantage features off",
-            "Thumbnail",
-            "Correct CTA",
-            "Destination URL",
-            "Display link",
-            "Correct Pixel + Offline",
-            "UTM parameters"
+            "Cook spaghetti according to package instructions.",
+            "Sauté garlic and onion in olive oil.",
+            "Add ground beef and cook until browned.",
+            "Stir in tomato sauce and simmer for 20 minutes.",
+            "Season with salt and pepper.",
+            "Serve over spaghetti and top with Parmesan cheese."
         ]
     },
     {
-        "title": "PMAX BP checklist",
-        "category": "META",
+        "title": "Grilled Chicken Breast",
+        "category": "Main Course",
         "items": [
-            "Location option",
-            "Final URL expansion",
-            "Asset Creation",
-            "Branded Traffic and Search Themes",
-            "Video partner network"
+            "Marinate chicken in olive oil, lemon juice, garlic, and herbs.",
+            "Preheat grill to medium-high heat.",
+            "Cook chicken for 6-8 minutes per side or until fully cooked.",
+            "Let rest for 5 minutes before serving."
         ]
     },
     {
-        "title": "Running a promo",
-        "category": "Section 2",
+        "title": "Vegetable Stir-fry",
+        "category": "Main Course",
         "items": [
-            "Dynamic Headlines - Google",
-            "Dynamic Body - Google",
-            "Promo Extensions - Google",
-            "Callout Extensions - Google",
-            "Site Link Extensions - Google",
-            "GMC Promos - Google",
-            "Meta ads",
-            "Update calendar page"
+            "Heat oil in a wok or large skillet.",
+            "Add chopped vegetables like broccoli, bell peppers, and carrots.",
+            "Stir-fry for 5-7 minutes until tender-crisp.",
+            "Add soy sauce and a splash of sesame oil.",
+            "Serve over steamed rice."
         ]
     },
-        {
-        "title": "Level 10 meeting",
-        "category": "Section 3",
+    {
+        "title": "Chocolate Chip Cookies",
+        "category": "Desserts",
         "items": [
-            "Segue, check-ins wins",
-            "Host value segment",
-            "Company/member headlines",
-            "Clan lookout",
-            "Monthly scorecard",
-            "Weekly scorecard",
-            "Issues highlights",
-            "Rocks on/off track",
-            "Rcap to-do's",
-            "Closing remarks"
+            "Preheat oven to 350°F (175°C).",
+            "Cream together butter and sugars.",
+            "Add eggs and vanilla extract, mixing well.",
+            "Combine dry ingredients and gradually mix into wet ingredients.",
+            "Stir in chocolate chips.",
+            "Drop spoonfuls onto baking sheet and bake for 10-12 minutes."
+        ]
+    },
+    {
+        "title": "Brownies",
+        "category": "Desserts",
+        "items": [
+            "Preheat oven to 350°F (175°C).",
+            "Melt butter and mix with sugar and cocoa powder.",
+            "Add eggs and vanilla extract, mixing well.",
+            "Stir in flour and a pinch of salt.",
+            "Pour into a baking pan and bake for 20-25 minutes."
+        ]
+    },
+    {
+        "title": "Apple Pie",
+        "category": "Desserts",
+        "items": [
+            "Preheat oven to 375°F (190°C).",
+            "Prepare pie crust and place in a pie dish.",
+            "Mix sliced apples with sugar, cinnamon, and lemon juice.",
+            "Fill crust with apple mixture and cover with a top crust.",
+            "Bake for 45-50 minutes until golden brown."
+        ]
+    },
+    {
+        "title": "Caesar Salad",
+        "category": "Appetizers",
+        "items": [
+            "Wash and chop romaine lettuce.",
+            "Toss lettuce with Caesar dressing.",
+            "Add croutons and Parmesan cheese.",
+            "Top with grilled chicken if desired."
+        ]
+    },
+    {
+        "title": "Bruschetta",
+        "category": "Appetizers",
+        "items": [
+            "Toast slices of baguette until crispy.",
+            "Top with diced tomatoes, garlic, basil, and olive oil.",
+            "Season with salt and pepper.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "title": "Stuffed Mushrooms",
+        "category": "Appetizers",
+        "items": [
+            "Remove stems from mushrooms and hollow out the caps.",
+            "Mix cream cheese, garlic, and herbs for filling.",
+            "Stuff each mushroom cap with the filling.",
+            "Bake at 375°F (190°C) for 20 minutes or until golden."
+        ]
+    },
+    {
+        "title": "Pancakes",
+        "category": "Breakfast",
+        "items": [
+            "Mix flour, sugar, baking powder, and salt.",
+            "Whisk in milk, eggs, and melted butter until smooth.",
+            "Heat a griddle and pour batter to form pancakes.",
+            "Cook until bubbles form, then flip and cook until golden brown.",
+            "Serve with syrup or toppings of your choice."
+        ]
+    },
+    {
+        "title": "Omelette",
+        "category": "Breakfast",
+        "items": [
+            "Beat eggs with salt and pepper.",
+            "Heat butter in a non-stick skillet.",
+            "Pour eggs into the skillet and cook until set.",
+            "Add fillings like cheese, ham, or vegetables.",
+            "Fold the omelette in half and serve hot."
+        ]
+    },
+    {
+        "title": "French Toast",
+        "category": "Breakfast",
+        "items": [
+            "Whisk eggs, milk, and cinnamon in a bowl.",
+            "Dip slices of bread into the egg mixture.",
+            "Cook on a hot griddle until golden brown on both sides.",
+            "Serve with syrup, powdered sugar, or fresh fruit."
         ]
     }
 ]
