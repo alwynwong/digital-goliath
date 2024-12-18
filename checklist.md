@@ -12,19 +12,19 @@
             "Access to Google Analytics",
             "Access to Google Tag Manager",
             "Tags are on the correct pages",
-            "Campaign Planning form done",
+            "Client Campaign Planning form done",
             "Create a Client Dropbox folder",
             "Bookmark Assets on Slack",
             "Campaign is launched",
             "Create Looker Studio",
             "Update Pipeline",
-            "Booked -3/14/27 Days meeting"
+            "Booked -3/14/30 Days meeting"
         ]
     },
     {
         "title": "DIS Account Starting Checklist",
         "items": [
-            "Starting form has been filled",
+            "Starting form has been filled by DIS",
             "Audit complete",
             "CPC/CPA Clearly Defined",
             "Create a Slack Channel",
@@ -42,7 +42,7 @@
             "Campaign is launched",
             "Create Looker Studio",
             "Update Pipeline",
-            "Booked -3/14/27 Days meeting"
+            "Booked -3/14/30 Days meeting"
         ]
     },
     {
@@ -101,34 +101,39 @@
     {
         "title": "Minus 3 Days Account Meeting",
         "items": [
-            "Prepare a campaign map to discuss during the meeting (either draw with edrawmind.com or Miro)",
-            "Explain the context of the account",
-            "What are the exact goals for the first month and the math behind it. (Budget, expected CPC/CPM)",
-            "What have we finished so far, what are we still waiting on, and from who?",
-            "Any foreseeable issues/delays coming up?",
+            "Prepare a campaign map",
+            "Context of the account",
+            "Exact goals for the first month",
+            "Budget, expected CPC/CPM",
+            "What have we finished so far?",
+            "What are we still waiting on?",
+            "Any foreseeable issues/delays?",
             "Will we start on time?"
         ]
     },
     {
         "title": "12 Days Account Meeting",
         "items": [
-            "Are we on track? Any emergencies that need sorting out?",
-            "Do the numbers match initial projections as discussed in the first meeting? If no, what are we doing to course-correct?",
-            "How far did we end up deviating from the original campaign map?",
-            "After working on this for 15 days, do you have the capacity & experience required to handle the account or do you need help?",
-            "Any questions or info worth letting the team know about this account?"
+            "Are we on track?",
+            "Emergencies need sorting out?",
+            "Numbers match initial projections?",
+            "Deviated from the campaign map?",
+            "Do you have the capacity?",
+            "Do you need help?",
+            "Any questions or info to the team?"
         ]
     },
     {
         "title": "27 Days Account Meeting",
         "items": [
-            "Report back on the results from actions taken since the last meeting",
-            "Are we on track to meet the end-of-month goals? (the ones we set before starting this account)",
-            "How far did the actual metrics differ from our projections? Did the changes we course correct?",
-            "What are some challenges that came up during the month that we didn't foresee?",
-            "How far did we end up deviating from the original campaign map?",
-            "List some wins and misses to send to client (can also include start-stop-continues)",
-            "After working on this for 30 days, do you have the capacity & experience required to handle the account going forward?"
+            "Report back on the results",
+            "Are we on track to meet the goals?",
+            "Metrics differ from our projections? ",
+            "Changes we made course-correct?",
+            "What challenges came up?",
+            "Deviated from the campaign map?",
+            "List some wins and misses",
+            "Do you have the capacity/experience?"
         ]
     }
 ]
