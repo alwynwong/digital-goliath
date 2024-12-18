@@ -65,7 +65,7 @@
             "Access to Google Analytics",
             "Access to Google Tag Manager",
             "Tags are on the correct pages",
-            "Client Campaign Planning form done",
+            "Campaign Planning form done",
             "Create a Client Dropbox folder",
             "Bookmark Assets on Slack",
             "Campaign is launched",
