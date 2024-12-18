@@ -77,7 +77,7 @@
     {
         "title": "DIS Account Starting Checklist",
         "items": [
-            "Starting form has been filled by DIS",
+            "Starting form has been filled",
             "Audit complete",
             "CPC/CPA Clearly Defined",
             "Create a Slack Channel",
