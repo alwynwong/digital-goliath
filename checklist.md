@@ -18,7 +18,7 @@
             "Campaign is launched",
             "Create Looker Studio",
             "Update Pipeline",
-            "Booked -3/14/30 Days meeting"
+            "Booked -3/14/27 Days meeting"
         ]
     },
     {
@@ -42,7 +42,7 @@
             "Campaign is launched",
             "Create Looker Studio",
             "Update Pipeline",
-            "Booked -3/14/30 Days meeting"
+            "Booked -3/14/27 Days meeting"
         ]
     },
     {
