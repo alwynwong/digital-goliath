@@ -12,7 +12,7 @@
             "Access to Google Analytics",
             "Access to Google Tag Manager",
             "Tags are on the correct pages",
-            "Client Campaign Planning form done",
+            "Client Campaign Planning form",
             "Create a Client Dropbox folder",
             "Bookmark Assets on Slack",
             "Campaign is launched",
@@ -24,7 +24,7 @@
     {
         "title": "DIS Account Starting Checklist",
         "items": [
-            "Starting form has been filled by DIS",
+            "Starting form has been filled",
             "Audit complete",
             "CPC/CPA Clearly Defined",
             "Create a Slack Channel",
@@ -133,7 +133,7 @@
             "What challenges came up?",
             "Deviated from the campaign map?",
             "List some wins and misses",
-            "Do you have the capacity/experience?"
+            "Have the capacity to continue"
         ]
     }
 ]
