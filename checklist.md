@@ -53,53 +53,53 @@
         ]
     },
     {
-        "title": "DG Meta Account Starting Checklist",
+        "title": "Meta Account Starting Checklist",
         "items": [
-            "Create a Slack channel",
-            "Create a ClickUp folder",
-            "Connect the ClickUp-Slack integration",
-            "Gain access to the Meta Ad Account",
-            "Gain access to the Meta Pixel",
-            "Gain access to the Meta Catalogue",
-            "Gain access to the Meta Page / IG Account",
-            "Gain access to Google Analytics",
-            "Gain access to Google Tag Manager",
-            "Client has filled out the Meta Ad Campaign Planning and Targeting Questionnaire",
-            "Ensure the right tags are on the correct pages",
-            "Bookmark the necessary assets in Slack",
-            "Create a Client-specific Dropbox folder and save all the assets",
-            "Campaign launched and activated",
-            "Booked -3 Days meeting",
-            "Booked 14 Days meeting",
-            "Booked 30 Days meeting"
+            "Create a Slack Channel",
+            "Create a Click Up up Folder",
+            "Connect CUP-Slack",
+            "Access to Meta Ad Account",
+            "Access to Meta Pixel",
+            "Access to Meta Page/IG",
+            "Access to Catalogue",
+            "Access to Google Analytics",
+            "Access to Google Tag Manager",
+            "Tags are on the correct pages",
+            "Client Campaign Planning form done",
+            "Create a Client Dropbox folder",
+            "Bookmark Assets on Slack",
+            "Campaign is launched",
+            "Create Looker Studio",
+            "Update Pipeline",
+            "Booked -3/14/30 Days meeting"
         ]
     },
     {
         "title": "DIS Account Starting Checklist",
         "items": [
-            "Starting form completed by Disrupta",
-            "Audit completed",
-            "CPC/CPA clearly defined and included in the audit",
-            "Create a Slack channel",
-            "Create a ClickUp folder",
-            "Connect the ClickUp-Slack integration",
-            "Gain access to the Meta Ad Account",
-            "Gain access to the Meta Pixel",
-            "Gain access to the Meta Catalogue",
-            "Gain access to the Meta Page / IG Account",
-            "Gain access to Google Analytics",
-            "Gain access to Google Tag Manager",
-            "Ensure the right tags are on the correct pages",
-            "Bookmark the necessary assets in Slack",
-            "Create a Client-specific Dropbox folder and save all the assets",
-            "Campaign launched and activated",
-            "Booked -3 Days meeting",
-            "Booked 14 Days meeting",
-            "Booked 30 Days meeting"
+            "Starting form has been filled by DIS",
+            "Audit complete",
+            "CPC/CPA Clearly Defined",
+            "Create a Slack Channel",
+            "Create a Click Up up Folder",
+            "Connect CUP-Slack",
+            "Access to Meta Ad Account",
+            "Access to Meta Pixel",
+            "Access to Meta Page/IG",
+            "Access to Catalogue",
+            "Access to Google Analytics",
+            "Access to Google Tag Manager",
+            "Tags are on the correct pages",
+            "Bookmark Assets on Slack",
+            "Create a Client Dropbox folder",
+            "Campaign is launched",
+            "Create Looker Studio",
+            "Update Pipeline",
+            "Booked -3/14/30 Days meeting"
         ]
     },
     {
-        "title": "DAY DOT Meeting (Minus 3 days)",
+        "title": "Minus 3 Days",
         "items": [
             "Prepare a campaign map to discuss during the meeting (either draw with edrawmind.com or Miro)",
             "Explain the context of the account",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "title": "DAY DOT Meeting (12 days after the account has started)",
+        "title": "12 Days Day Dot Meeting",
         "items": [
             "Are we on track? Any emergencies that need sorting out?",
             "Do the numbers match initial projections as discussed in the first meeting? If no, what are we doing to course-correct?",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "title": "DAY DOT Meeting (27 days after the account has started)",
+        "title": "27 Days Day Dot Meeting",
         "items": [
             "Report back on the results from actions taken since the last meeting",
             "Are we on track to meet the end-of-month goals? (the ones we set before starting this account)",
