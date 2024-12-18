@@ -133,7 +133,7 @@
             "What challenges came up?",
             "Deviated from the campaign map?",
             "List some wins and misses",
-            "Have the capacity to continue"
+            "Have the capacity to continue?"
         ]
     }
 ]
