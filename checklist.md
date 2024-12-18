@@ -18,7 +18,7 @@
             "Campaign is launched",
             "Create Looker Studio",
             "Update Pipeline",
-            "Booked -3/14/30 Days meeting"
+            "Booked -3/14/27 Days meeting"
         ]
     },
     {
@@ -66,7 +66,7 @@
             "Location option",
             "Final URL expansion",
             "Asset Creation",
-            "Branded Traffic and Search Themes",
+            "Branded Traffic & Search Themes",
             "Video partner network"
         ]
     },
