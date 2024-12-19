@@ -71,6 +71,33 @@
         ]
     },
     {
+        "title": "Responsive Search Ads Checklist",
+        "items": [
+            "Tick Auto Tagging",
+            "Call Reporting is turned ON",
+            "Auto-apply/reco is OFF",
+            "Add Sitelinks & Call Assets",
+            "Proper naming convention",
+            "Use campaign-specific goal",
+            "Manual CPC is selected",
+            "Untick the Search Network",
+            "Untick the Display Network",
+            "No Broad match Keywords",
+            "Loc: 'People in'/regularly in",
+            "Enough Daily Budget is set.",
+            "Automatically created assets Off",
+            "Add Negative Keyword List",
+            "Appropriate adgroup name",
+            "Set ad group level bid",
+            "\"phrase\" or [exact] keywords",
+            "Bidding is set to default",
+            "Pin headlines and descriptions",
+            "Correct landing page URL",
+            "Have added Paths 1 and 2",
+            "No misspellings"
+        ]
+    },
+    {
         "title": "Running a promo",
         "items": [
             "Dynamic Headlines - Google",
@@ -128,7 +155,7 @@
         "items": [
             "Report back on the results",
             "Are we on track to meet the goals?",
-            "Metrics differ from our projections? ",
+            "Metrics differ from our projections?",
             "Changes we made course-correct?",
             "What challenges came up?",
             "Deviated from the campaign map?",
