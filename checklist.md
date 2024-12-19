@@ -1,6 +1,6 @@
 [
     {
-        "title": "Meta Account Starting Checklist",
+        "title": "Meta Account Starting",
         "items": [
             "Create a Slack Channel",
             "Create a Click Up up Folder",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "title": "DIS Account Starting Checklist",
+        "title": "DIS Account Starting",
         "items": [
             "Starting form has been filled",
             "Audit complete",
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "title": "PMAX BP checklist",
+        "title": "PMAX BP",
         "items": [
             "Location option",
             "Final URL expansion",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "title": "Responsive Search Ads Checklist",
+        "title": "Responsive Search Ads Pre-launch",
         "items": [
             "Tick Auto Tagging",
             "Call Reporting is turned ON",
@@ -83,7 +83,7 @@
             "Untick the Search Network",
             "Untick the Display Network",
             "No Broad match Keywords",
-            "Loc: 'People in'/regularly in",
+            "Location: \"People in\"/regularly in\"",
             "Enough Daily Budget is set.",
             "Automatically created assets Off",
             "Add Negative Keyword List",
@@ -95,6 +95,23 @@
             "Correct landing page URL",
             "Have added Paths 1 and 2",
             "No misspellings"
+        ]
+    },
+    {
+        "title": "Responsive Display Ads Pre-launch",
+        "items": [
+            "Proper naming convention",
+            "Custom Goal is selected",
+            "Location: \"People in\"/regularly in\"",
+            "Manual CPC is selected",
+            "Add target remarketing audience",
+            "Correct audience demographics",
+            "Exclude All Mobile Apps",
+            "Optimised targeting is OFF",
+            "Set the ad group bid",
+            "Upload the approved adcopy/Images",
+            "Correct landing page URL",
+            "Appropriate CTA button"
         ]
     },
     {
@@ -155,7 +172,7 @@
         "items": [
             "Report back on the results",
             "Are we on track to meet the goals?",
-            "Metrics differ from our projections?",
+            "Metrics differ from our projections? ",
             "Changes we made course-correct?",
             "What challenges came up?",
             "Deviated from the campaign map?",
