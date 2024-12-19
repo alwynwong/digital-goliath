@@ -115,6 +115,32 @@
         ]
     },
     {
+        "title": "Youtube Ads Pre-launch",
+        "items": [
+            "YT connected to Google Ads",
+            "Video uploaded to YT & unlisted",
+            "Link to unlisted YouTube video",
+            "Campaign objective",
+            "Campaign subtype",
+            "Campaign name",
+            "Ad format",
+            "Budget & bidding strategy set",
+            "Start and end date",
+            "Untick Google Display partners",
+            "Location targeting",
+            "Select English as language",
+            "Placement exclusions added",
+            "Ad schedule (if any)",
+            "Audience and demographic",
+            "Destination URL working",
+            "Display URL set",
+            "CTA",
+            "Ad copy spelling and grammar",
+            "Conversion tracking",
+            "Video enhancement turned off"
+        ]
+    },
+    {
         "title": "Running a promo",
         "items": [
             "Dynamic Headlines - Google",
