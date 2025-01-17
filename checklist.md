@@ -1,6 +1,7 @@
 [
     {
         "title": "Starting Meta Account",
+        "category": "Meta Ads",
         "items": [
             "Create Slack Channel",
             "Create Click Up Folder",
@@ -8,272 +9,290 @@
             "Connect CUP-Slack",
             "Access Ad Account",
             "Access Pixel",
-            "Access Page&IG",
-            "Access Cata",
+            "Access Page & IG",
+            "Access Catalog",
             "Access GA4",
-            "Access to GTM",
+            "Access GTM",
             "Tags on correct pages",
             "Planning form done",
             "Bookmark Assets on Slack",
             "Launch Campaign",
             "Build Looker",
             "Update CUP Pipeline",
-            "Booked -3/12/27"
+            "Booked - 3/12/27"
         ]
     },
     {
-        "title": "Meta Ad set Level",
+        "title": "Meta Ad Set Level",
+        "category": "Meta Ads",
         "items": [
             "Ad Set Title",
-            "Correct Conversion Loc",
+            "Correct Conversion Location",
             "Correct Pixel ID",
-            "Correct conversion event",
-            "Check attribution setting",
+            "Correct Conversion Event",
+            "Check Attribution Setting",
             "Budget & Schedule",
             "Correct Audience",
-            "Audience Exclusion list",
-            "Correct placements"
+            "Audience Exclusion List",
+            "Correct Placements"
         ]
     },
     {
         "title": "Meta Ad Level",
+        "category": "Meta Ads",
         "items": [
-            "Ad title",
+            "Ad Title",
             "Grammar & Spacing",
             "Correct Page & IG",
             "Advantage Features Off",
             "Correct CTA",
             "Video Ad Thumbnail",
             "Destination URL",
-            "Display link",
-            "Correct pixel/offline event",
-            "URL parameters"
+            "Display Link",
+            "Correct Pixel/Offline Event",
+            "URL Parameters"
         ]
     },
     {
         "title": "Build Responsive Search",
+        "category": "Google Ads",
         "items": [
             "Tick Auto Tagging",
             "Call Reporting On",
-            "Auto-apply/reco Off",
+            "Auto-apply/Recommendations Off",
             "Sitelinks & Call Assets",
-            "Naming convention",
-            "Use campaign goal",
-            "Manual CPC selected",
+            "Naming Convention",
+            "Use Campaign Goal",
+            "Manual CPC Selected",
             "Untick Search Network",
             "Untick Display Network",
-            "No Broad Match KWs",
-            "Loc: \"People regularly in\"",
+            "No Broad Match Keywords",
+            "Location: 'People Regularly In'",
             "Set Daily Budget",
-            "Auto-created assets Off",
-            "Add Negative KWs",
-            "Adgroup name",
-            "Set Adgroup bid",
-            "\"Phrase\" or [Exact] KWs",
-            "Bidding default",
-            "Pin headlines & desc",
-            "Correct LP URL",
+            "Auto-created Assets Off",
+            "Add Negative Keywords",
+            "Ad Group Name",
+            "Set Ad Group Bid",
+            "'Phrase' or [Exact] Keywords",
+            "Bidding Default",
+            "Pin Headlines & Descriptions",
+            "Correct Landing Page URL",
             "Add Paths 1 & 2",
-            "No misspellings"
+            "No Misspellings"
         ]
     },
     {
         "title": "Build Responsive Display",
+        "category": "Google Ads",
         "items": [
-            "Naming convention",
-            "Custom Goal selected",
-            "Loc: \"People regularly in\"",
-            "Manual CPC selected",
-            "Remarketing audience",
-            "Audience demographics",
+            "Naming Convention",
+            "Custom Goal Selected",
+            "Location: 'People Regularly In'",
+            "Manual CPC Selected",
+            "Remarketing Audience",
+            "Audience Demographics",
             "Exclude Mobile Apps",
-            "Optimised targeting OFF",
-            "Set ad group bid",
-            "Upload ad copy/Images",
-            "Correct LP URL",
-            "Ad CTA button"
+            "Optimized Targeting Off",
+            "Set Ad Group Bid",
+            "Upload Ad Copy/Images",
+            "Correct Landing Page URL",
+            "Ad CTA Button"
         ]
     },
     {
-        "title": "Build Youtube Ads",
+        "title": "Build YouTube Ads",
+        "category": "Google Ads",
         "items": [
-            "YT connected to Google Ads",
-            "Video uploaded to YT",
-            "Link to unlisted video",
-            "Campaign objective",
-            "Campaign subtype",
-            "Campaign name",
-            "Ad format",
-            "Budget & bidding strategy",
-            "Start/end date",
-            "Untick Display partners",
-            "Location targeting",
-            "Select English language",
-            "Placement exclusions",
-            "Audience & demographic",
-            "Destination URL working",
-            "Display URL set",
+            "YouTube Connected to Google Ads",
+            "Video Uploaded to YouTube",
+            "Link to Unlisted Video",
+            "Campaign Objective",
+            "Campaign Subtype",
+            "Campaign Name",
+            "Ad Format",
+            "Budget & Bidding Strategy",
+            "Start/End Date",
+            "Untick Display Partners",
+            "Location Targeting",
+            "Select English Language",
+            "Placement Exclusions",
+            "Audience & Demographics",
+            "Destination URL Working",
+            "Display URL Set",
             "CTA",
-            "Ad copy spelling/grammar",
-            "Conversion tracking",
-            "Video enhancement Off"
+            "Ad Copy Spelling/Grammar",
+            "Conversion Tracking",
+            "Video Enhancement Off"
         ]
     },
     {
-        "title": "Execute Promotional events",
+        "title": "Execute Promotional Events",
+        "category": "Google Ads",
         "items": [
             "Dynamic Headlines",
             "Dynamic Body",
             "Promo Extension",
             "Site Link Extension",
-            "GMC promo",
+            "GMC Promo",
             "Meta Ads"
         ]
     },
     {
-        "title": "Must-have list to do promo",
+        "title": "Must-Have List to Do Promo",
+        "category": "Google Ads",
         "items": [
-            "Landing page URL",
-            "Thank you page URL",
+            "Landing Page URL",
+            "Thank You Page URL",
             "GTM & GA4 on LP/TY",
-            "Offer exact start/end date",
-            "Confirm budget"
+            "Offer Exact Start/End Date",
+            "Confirm Budget"
         ]
     },
     {
         "title": "Google Campaign Level",
+        "category": "Google Ads",
         "items": [
             "Campaign Title",
             "Conversion Goal",
-            "Loc: \"People regularly in\"",
-            "Budget set",
+            "Location: 'People Regularly In'",
+            "Budget Set",
             "Manual CPC",
-            "Optimised targeting Off",
-            "Broad match KWs Off"
+            "Optimized Targeting Off",
+            "Broad Match Keywords Off"
         ]
     },
     {
-        "title": "Google Ad group Level",
+        "title": "Google Ad Group Level",
+        "category": "Google Ads",
         "items": [
-            "Ad group title",
-            "Audience demographics",
+            "Ad Group Title",
+            "Audience Demographics",
             "Exclude All Mobile Apps",
-            "Ad group bidding set"
+            "Ad Group Bidding Set"
         ]
     },
     {
         "title": "Google Ad Level",
+        "category": "Google Ads",
         "items": [
             "Ad Title",
-            "Upload ad copy/Images",
-            "Correct LP URL",
+            "Upload Ad Copy/Images",
+            "Correct Landing Page URL",
             "Ad CTA"
         ]
     },
     {
-        "title": "- 3 Day",
+        "title": "3 Day",
+        "category": "Meetings",
         "items": [
-            "Prepare campaign map",
-            "Account context",
-            "Goals for first month",
+            "Prepare Campaign Map",
+            "Account Context",
+            "Goals for First Month",
             "Budget",
             "Expected CPC/CPM",
-            "What’s finished so far?",
-            "What’s still pending?",
-            "Any issues/delays?",
-            "Will we start on time?"
+            "What’s Finished So Far?",
+            "What’s Still Pending?",
+            "Any Issues/Delays?",
+            "Will We Start on Time?"
         ]
     },
     {
         "title": "12 Day",
+        "category": "Meetings",
         "items": [
-            "Are we on track?",
-            "Emergencies to sort?",
-            "Metrics vs projections?",
-            "Deviated from campaign map?",
-            "Capacity to handle?",
-            "Need help?",
-            "Questions for team?"
+            "Are We on Track?",
+            "Emergencies to Sort?",
+            "Metrics vs Projections?",
+            "Deviated from Campaign Map?",
+            "Capacity to Handle?",
+            "Need Help?",
+            "Questions for Team?"
         ]
     },
     {
         "title": "27 Day",
+        "category": "Meetings",
         "items": [
-            "Report on results",
-            "On track to meet goals?",
-            "Metrics vs projections?",
-            "Changes course-corrected?",
-            "Challenges faced?",
-            "Deviated from campaign map?",
-            "Wins & misses?",
-            "Capacity to continue?"
+            "Report on Results",
+            "On Track to Meet Goals?",
+            "Metrics vs Projections?",
+            "Changes Course-Corrected?",
+            "Challenges Faced?",
+            "Deviated from Campaign Map?",
+            "Wins & Misses?",
+            "Capacity to Continue?"
         ]
     },
     {
         "title": "Level 10 Meeting",
+        "category": "Meetings",
         "items": [
-            "Segue, check-ins wins",
-            "Host value segment",
-            "Company/member headlines",
-            "Clan lookout",
-            "Monthly scorecard",
-            "Weekly scorecard",
-            "Issues highlights",
-            "Rocks on/off track",
-            "Rcap to-do's",
-            "Closing remarks"
+            "Segue, Check-Ins Wins",
+            "Host Value Segment",
+            "Company/Member Headlines",
+            "Clan Lookout",
+            "Monthly Scorecard",
+            "Weekly Scorecard",
+            "Issues Highlights",
+            "Rocks On/Off Track",
+            "Recap To-Do's",
+            "Closing Remarks"
         ]
     },
     {
-        "title": "Responding to budget changes",
+        "title": "Responding to Budget Changes",
+        "category": "Accounts General",
         "items": [
-            "Clarify ambiguities",
-            "Update DS spend graphs",
-            "Update DS descriptions",
+            "Clarify Ambiguities",
+            "Update DS Spend Graphs",
+            "Update DS Descriptions",
             "Update GRID",
-            "Verify math for platforms",
-            "Update on Slack/email"
+            "Verify Math for Platforms",
+            "Update on Slack/Email"
         ]
     },
     {
         "title": "Onboarding Talent",
+        "category": "Admin/HR/Internal",
         "items": [
             "Interview with EA",
-            "Past check",
-            "Values check",
-            "Skills check",
-            "Agree on rates",
+            "Past Check",
+            "Values Check",
+            "Skills Check",
+            "Agree on Rates",
             "Interview with JY",
-            "Org start",
-            "1 day checkup",
-            "7 day checkup",
-            "30 day consistency",
-            "90 day consistency"
+            "Org Start",
+            "1 Day Checkup",
+            "7 Day Checkup",
+            "30 Day Consistency",
+            "90 Day Consistency"
         ]
     },
     {
-        "title": "Discovery call",
+        "title": "Discovery Call",
+        "category": "BD/Marketing Assistant",
         "items": [
-            "Type of biz",
-            "Stage of biz",
-            "Problem & urgency",
-            "Ad budget",
-            "Growth goals",
-            "EType: ret/1off/hoc/in-h/hourly",
-            "Prev Experience",
-            "Avail 2 work",
-            "Comms frequency",
-            "Next steps"
+            "Type of Business",
+            "Stage of Business",
+            "Problem & Urgency",
+            "Ad Budget",
+            "Growth Goals",
+            "Engagement Type",
+            "Previous Experience",
+            "Availability to Work",
+            "Communication Frequency",
+            "Next Steps"
         ]
     },
     {
-        "title": "Sales qualified leads",
+        "title": "Sales Qualified Leads",
+        "category": "BD/Marketing Assistant",
         "items": [
-            "Access to audit",
-            "Send audit & quote",
-            "Agreement doc",
-            "Deposit paid",
-            "Notify personnel"
+            "Access to Audit",
+            "Send Audit & Quote",
+            "Agreement Document",
+            "Deposit Paid",
+            "Notify Personnel"
         ]
     }
 ]
