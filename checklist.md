@@ -158,6 +158,7 @@
             "Budget Set",
             "Manual CPC",
             "Optimized Targeting Off",
+            "Negative KWs added",
             "Broad Match Keywords Off"
         ]
     },
