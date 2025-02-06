@@ -151,20 +151,20 @@
     {
         "title": "Google Campaign Level",
         "category": "Google Ads",
-    "items": [
-        "Campaign Title",
-        "Conversion Goal",
-        "One, not every",
-        "Conversion value (100/10)",
-        "Call duration 10 secs",
-        "Location: 'People Regularly In'",
-        "Budget Set",
-        "Manual CPC",
-        "Optimized Targeting Off",
-        "Negative KWs added",
-        "Broad Match Keywords Off"
-        "Mobile App Placement Exclusion"
-    ]
+        "items": [
+            "Campaign Title",
+            "Conversion Goal",
+            "One, not every",
+            "Conversion value (100/10)",
+            "Call duration 10 secs",
+            "Location: 'People Regularly In'",
+            "Budget Set",
+            "Manual CPC",
+            "Optimized Targeting Off",
+            "Negative KWs added",
+            "Broad Match Keywords Off",
+            "Mobile App Placement Exclusion"
+        ]
     },
     {
         "title": "Google Ad Group Level",
