@@ -163,6 +163,7 @@
         "Optimized Targeting Off",
         "Negative KWs added",
         "Broad Match Keywords Off"
+        "Mobile App Placement Exclusion"
     ]
     },
     {
