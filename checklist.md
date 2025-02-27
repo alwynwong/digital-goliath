@@ -1,5 +1,37 @@
 [
     {
+        "title": "Start of the Day",
+        "category": "Daily Routine",
+        "items": [
+            "Clock in",
+            "Email sorted",
+            "WhatsApp sorted",
+            "Slack sorted",
+            "ClickUp Cards sorted",
+            "Paste account overview in channels",
+            "Paste next 7 days CUP",
+            "Paste next 7 days Calendar",
+            "Paste events Calendar with highlights"
+        ]
+    },
+    {
+        "title": "End of the Day",
+        "category": "Daily Routine",
+        "items": [
+            "Email EoD check",
+            "WhatsApp EoD check",
+            "Slack EoD check",
+            "Unfinished cards moved",
+            "Paste account overview in channels",
+            "Paste next 7 days CUP",
+            "Paste next 7 days Calendar",
+            "Paste events Calendar with highlights",
+            "Emoji Accounts",
+            "Fill in timesheet",
+            "Clock out"
+        ]
+    },
+    {
         "title": "Starting Meta Account",
         "category": "Meta Ads",
         "items": [
