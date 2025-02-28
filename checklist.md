@@ -9,6 +9,7 @@
             "Slack sorted",
             "ClickUp Cards sorted",
             "Paste account overview in channels",
+            "Paste today's CUP",
             "Paste next 7 days CUP",
             "Paste next 7 days Calendar",
             "Paste events Calendar with highlights"
