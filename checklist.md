@@ -290,6 +290,15 @@
         ]
     },
     {
+        "title": "Canned Messages",
+        "category": "Accounts General",
+        "items": [
+            "Add canned messages",
+            "Submit canned messages",
+            "Fill in the canned messages"
+        ]
+    },
+    {
         "title": "Onboarding Talent",
         "category": "Admin/HR/Internal",
         "items": [
