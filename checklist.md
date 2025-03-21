@@ -29,6 +29,7 @@
             "Paste events Calendar with highlights",
             "Emoji Accounts",
             "Fill in timesheet",
+            "Submit canned messages",
             "Clock out"
         ]
     },
