@@ -54,7 +54,7 @@
             "Build Looker",
             "Update CUP Pipeline",
             "Booked - 3/12/27",
-            "Add account on the GRID"
+            "Add account to the GRID"
         ]
     },
     {
