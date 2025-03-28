@@ -1,6 +1,3 @@
-Your JSON contains a small syntax error. Specifically, a comma is missing after `"Booked - 3/12/27"` in the `Starting Meta Account` object's `items` array. Here is the corrected JSON: 
-
-```json
 [
     {
         "title": "Start of the Day",
@@ -348,4 +345,3 @@ Your JSON contains a small syntax error. Specifically, a comma is missing after 
         ]
     }
 ]
-```
